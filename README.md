@@ -75,29 +75,29 @@ for i in range(0,9):
 
 ### Original Image
 
-![output](?raw=true)
+![output](https://github.com/Sucharithachowdary/Thresholding/blob/main/11.jpg?raw=true)
 
 ### Global Thresholding
 
-![output](?raw=true)
+![output](https://github.com/Sucharithachowdary/Thresholding/blob/main/12.jpg?raw=true)
 
-![output](?raw=true)
+![output](https://github.com/Sucharithachowdary/Thresholding/blob/main/13.jpg?raw=true)
 
-![output](?raw=true)
+![output](https://github.com/Sucharithachowdary/Thresholding/blob/main/14.jpg?raw=true)
 
-![output](?raw=true)
+![output](https://github.com/Sucharithachowdary/Thresholding/blob/main/15.jpg?raw=true)
 
-![output](?raw=true)
+![output](https://github.com/Sucharithachowdary/Thresholding/blob/main/16.jpg?raw=true)
 
 ### Adaptive Thresholding
 
-![output](?raw=true)
+![output](https://github.com/Sucharithachowdary/Thresholding/blob/main/17.jpg?raw=true)
 
-![output](?raw=true)
+![output](https://github.com/Sucharithachowdary/Thresholding/blob/main/18.jpg?raw=true)
 
 ### Optimum Global Thesholding using Otsu's Method
 
-![output](?raw=true)
+![output](https://github.com/Sucharithachowdary/Thresholding/blob/main/19.jpg?raw=true)
 
 ## Result
 Thus the images are segmented using global thresholding, adaptive thresholding and optimum global thresholding using python and OpenCV.
